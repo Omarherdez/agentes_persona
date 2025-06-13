@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdaa="http://rdaregistry.info/Elements/a/" xmlns:rdaw="http://rdaregistry.info/Elements/w/" xmlns:rdac="http://rdaregistry.info/Elements/c/">
+  <!-- Agente 1: Tena, Olivia -->
+  <rdf:Description rdf:about="http://example.org/autoridad/9265">
+    <rdf:type rdf:resource="http://rdaregistry.info/Elements/c/C10004"/>
+    <rdaa:P50411>Tena, Olivia</rdaa:P50411>
+    <rdaa:P50117>Tena, Olivia</rdaa:P50117>
+    <rdaa:P50103>Tena Guerrero, Olivia</rdaa:P50103>
+    <rdaa:P50103>Guerrero, Olivia Tena</rdaa:P50103>
+    <rdaa:P50121>1959-01-05</rdaa:P50121>
+    <rdaa:P50318 rdf:resource="http://id.loc.gov/authorities/names/n96122240"/>
+    <rdaa:P50104 rdf:resource="https://www.wikidata.org/wiki/Q121594"/>
+    <rdaa:P50104 rdf:resource="https://www.wikidata.org/wiki/Q1650915"/>
+    <rdaa:P50116 rdf:resource="http://purl.obolibrary.org/obo/GSSO_000369"/>
+    <rdaa:P50100 rdf:resource="http://id.loc.gov/authorities/subjects/sh85124200"/>
+    <rdaa:P50100 rdf:resource="http://id.loc.gov/authorities/subjects/sh85047741"/>
+    <rdaa:P50102 rdf:resource="http://id.loc.gov/vocabulary/languages/spa"/>
+    <rdaa:P50094 rdf:resource="https://isni.org/isni/0000000054159798"/>
+    <rdaa:P50094 rdf:resource="https://orcid.org/0000-0002-2758-8233"/>
+    <rdaa:P50094 rdf:resource="https://www.wikidata.org/wiki/Q127059190"/>
+    <rdaa:P50094 rdf:resource="http://viaf.org/viaf/7153284"/>
+    <rdaa:P50094 rdf:resource="http://id.loc.gov/authorities/names/no2006107447"/>
+    <rdaa:P50094>117844 (unam)</rdaa:P50094>
+    <rdaa:P50114>Torre II de Humanidades 4º piso, Circuito Interior, Ciudad Universitaria Delegación Coyoacán. CP 04510. tena@unam.mx </rdaa:P50114>
+    <rdaw:P10406>Ser padres, esposos e hijos, 2006: portada (Olivia Tena) página 9 (profesor-investigador en la Facultad de Estudios Superiores, Iztacala, de la Universidad Nacional Autónoma de México) página 285 (Olivia Tena Guerrero)</rdaw:P10406>
+  </rdf:Description>
+
+  <!-- Agente 2: Oeckl, Robert -->
+  <rdf:Description rdf:about="http://example.org/autoridad/22890">
+    <rdf:type rdf:resource="http://rdaregistry.info/Elements/c/C10004"/>
+    <rdaa:P50411>Oeckl, Robert</rdaa:P50411>
+    <rdaa:P50117>Oeckl, Robert</rdaa:P50117>
+    <rdaa:P50114>Km. 8 Antigua Carretera a Pátzcuaro No. 8701. Col. Ex-hacienda San José de la Huerta, Morelia, Michoacán, México. CP.58089. robert@matmor.unam.mx. http://www.matmor.unam.mx/~robert</rdaa:P50114>
+    <rdaa:P50100>Matemáticas: Fundamentos de la Teoría Cuántica de Campos</rdaa:P50100>
+    <rdaa:P50100>Gravedad Cuántica</rdaa:P50100>
+    <rdaa:P50100>Física Matemática</rdaa:P50100>
+    <rdaa:P50100>Gravedad cuántica</rdaa:P50100>
+    <rdaa:P50318>Universidad Nacional Autónoma de México. Centro de Ciencias Matemáticas</rdaa:P50318>
+    <rdaa:P50104 rdf:resource="https://www.wikidata.org/wiki/Q1650915"/>
+    <rdaa:P50104 rdf:resource="https://www.wikidata.org/wiki/Q121594"/>
+    <rdaa:P50116 rdf:resource="http://purl.obolibrary.org/obo/GSSO_000370"/>
+    <rdaa:P50102 rdf:resource="http://id.loc.gov/vocabulary/languages/spa"/>
+    <rdaa:P50102 rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>  
+    <rdaa:P50094 rdf:resource="https://isni.org/isni/0000000054145054"/>
+    <rdaa:P50094 rdf:resource="https://orcid.org/0000-0003-3447-7897"/>
+    <rdaa:P50094 rdf:resource="https://www.wikidata.org/wiki/Q54050084"/>
+    <rdaa:P50094 rdf:resource="http://viaf.org/viaf/7135238"/>
+    <rdaa:P50094 rdf:resource="http://id.loc.gov/authorities/names/no2006002339"/>
+    <rdaa:P50094>827244 (unam)</rdaa:P50094>
+    <rdaw:P10406>Discrete gauge theory, 2005:portada (Robert Oeckl)</rdaw:P10406>
+  </rdf:Description>
+
+ <!-- Agente 3: Loske, Achim M. -->
+ <rdf:Description rdf:about="http://example.org/autoridad/21879">
+    <rdf:type rdf:resource="http://rdaregistry.info/Elements/c/C10004"/>
+    <rdaa:P50411>Loske, Achim M.</rdaa:P50411>
+    <rdaa:P50117>Loske, Achim M.</rdaa:P50117>
+    <rdaa:P50103>Loske Mehling, Achim M.</rdaa:P50103>
+    <rdaa:P50103>Mehling, Achim M. Loske</rdaa:P50103>
+    <rdaa:P50103>Loske Mehling, Achim Max</rdaa:P50103>
+    <rdaa:P50103>Mehling, Achim Max Loske</rdaa:P50103>
+    <rdaa:P50103>Loske, Achim</rdaa:P50103>
+    <rdaa:P50103>Loske, A. M.(Achim Max)</rdaa:P50103>
+    <rdaa:P50115>Achim Max(Achim Max)</rdaa:P50115>
+    <rdaa:P50114>Centro de Física Aplicada y Tecnología Avanzada, UNAM, Boulevard Juriquilla No. 3001, Juriquilla, Querétaro, México. CP 76230. loske@fata.unam.mx</rdaa:P50114>
+    <rdaa:P50100>Aplicaciones médicas de ondas de choque</rdaa:P50100>
+    <rdaa:P50100>Transfección de células con ondas de choque</rdaa:P50100>
+    <rdaa:P50100>Transformación de microorganismos con ondas de choque</rdaa:P50100>
+    <rdaa:P50100>Efecto bactericida de ondas de choque</rdaa:P50100> 
+    <rdaa:P50100 rdf:resource="https://www.wikidata.org/wiki/Q864601"/>
+    <rdaa:P50100 rdf:resource="https://www.wikidata.org/wiki/Q190688"/>
+    <rdaa:P50318>Universidad Nacional Autónoma de México. Centro de Física Aplicada y Tecnología Avanzada</rdaa:P50318>
+    <rdaa:P50104 rdf:resource="https://www.wikidata.org/wiki/Q1650915"/>
+    <rdaa:P50116 rdf:resource="http://purl.obolibrary.org/obo/GSSO_000370"/>
+    <rdaa:P50102 rdf:resource="http://id.loc.gov/vocabulary/languages/spa"/>
+    <rdaa:P50102 rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+    <rdaa:P50094>118570 (unam)</rdaa:P50094>
+    <rdaa:P50094 rdf:resource="https://orcid.org/0000-0002-9873-5165"/>
+    <rdaa:P50094 rdf:resource="https://www.wikidata.org/wiki/Q46370759"/>
+    <rdaa:P50094 rdf:resource="https://isni.org/isni/0000000050718222"/>
+    <rdaa:P50094 rdf:resource="http://viaf.org/viaf/17057537"/>
+    <rdaa:P50094 rdf:resource="http://id.loc.gov/authorities/names/no2009004565"/>
+    <rdaw:P10406>Fundamentos tecnicos de litotripsia extracorporal, 1999:portada (Achim M. Loske)</rdaw:P10406>
+    <rdaw:P10406>El Tiempo, 2003?:portada (Achim M. Loske Mehling)</rdaw:P10406>
+  </rdf:Description>
+</rdf:RDF>
